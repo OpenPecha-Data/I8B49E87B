@@ -1,0 +1,80 @@
+id: dbc4ed2e1d4a43178327b10c5ca00f6e
+annotation_type: Chapter
+revision: '00001'
+annotations:
+  151e28f303e949e7a4c38f669f451256:
+    span:
+      start: 1110
+      end: 1127
+  faa63e9825bf46ad9f569d1841d16453:
+    span:
+      start: 5505
+      end: 5606
+  2ccfc4d3d83243768548b14d92359462:
+    span:
+      start: 29654
+      end: 29706
+  b8e1fbf2bc7840e38bc28e04d092695b:
+    span:
+      start: 33950
+      end: 34016
+  3ea936f135084b3a97d87e977d9a2b63:
+    span:
+      start: 44531
+      end: 44566
+  b96da2bd444c4ee5a0888ec253b9344f:
+    span:
+      start: 75958
+      end: 75993
+  393aedba49d84afe9c50a87605c83e41:
+    span:
+      start: 95992
+      end: 96048
+  2e7cd6e5e99449d3b4bc817b9ef9a05f:
+    span:
+      start: 118836
+      end: 118867
+  b856e53c7bad448ba6eeafbaad514542:
+    span:
+      start: 151390
+      end: 151433
+  cfce4e17ec2c4577a7d164a783e976cb:
+    span:
+      start: 153779
+      end: 153864
+  512a22fbff4544feb97f21c20226f68d:
+    span:
+      start: 196721
+      end: 196768
+  8ed18a9d1cfc48958ca9cf86b0b06817:
+    span:
+      start: 199240
+      end: 199286
+  fe8283044d484c45b1b2915ada454a81:
+    span:
+      start: 204547
+      end: 204628
+  2a0952c8f39a4d109958aebb6f82f397:
+    span:
+      start: 238889
+      end: 238981
+  e5b51519317a49508941d6d4397c875b:
+    span:
+      start: 313545
+      end: 313562
+local_ids:
+  151e28f303e949e7a4c38f669f451256: 200000
+  faa63e9825bf46ad9f569d1841d16453: 200001
+  2ccfc4d3d83243768548b14d92359462: 200002
+  b8e1fbf2bc7840e38bc28e04d092695b: 200003
+  3ea936f135084b3a97d87e977d9a2b63: 200004
+  b96da2bd444c4ee5a0888ec253b9344f: 200005
+  393aedba49d84afe9c50a87605c83e41: 200006
+  2e7cd6e5e99449d3b4bc817b9ef9a05f: 200007
+  b856e53c7bad448ba6eeafbaad514542: 200008
+  cfce4e17ec2c4577a7d164a783e976cb: 200009
+  512a22fbff4544feb97f21c20226f68d: 200010
+  8ed18a9d1cfc48958ca9cf86b0b06817: 200011
+  fe8283044d484c45b1b2915ada454a81: 200012
+  2a0952c8f39a4d109958aebb6f82f397: 200013
+  e5b51519317a49508941d6d4397c875b: 200014
