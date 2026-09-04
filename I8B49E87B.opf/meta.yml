@@ -2,7 +2,7 @@ id: I8B49E87B
 initial_creation_type: ebook
 source_metadata:
   id: RDI-SK-03
-  title: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: ལག་ལེན་སུམ་སྦྲེལ་གྱི་གདམས་པ་གཅེས་བཏུས།
   author: མཛད་པ་པོ། མཁན་པོ་དྲི་མེད་བློ་གྲོས།, མཛད་པ་པོ། མཁན་པོ་རིན་ཆེན་དར་རྒྱས།, མཛད་པ་པོ།
     སངས་རྒྱས།, མཛད་པ་པོ། ཞྭ་དམར་ལྔ་པ་དཀོན་མཆོག་ཡན་ལག, མཛད་པ་པོ། ཚེ་དབང་ཀུན་ཁྱབ།, མཛད་པ་པོ།
     འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།, མཛད་པ་པོ། འཇམ་དབྱངས་མཁྱེན་བརྩེ་དབང་པོ།, མཛད་པ་པོ།
@@ -19,13 +19,15 @@ source_metadata:
   sku: RDI-SK-03
   cover: RDI-SK-03.jpeg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: ལག་ལེན་སུམ་སྦྲེལ་གྱི་གདམས་པ་གཅེས་བཏུས།
   authors: *id001
   sku: RDI-SK-03
   cover: RDI-SK-03.jpeg
 layers:
 - Author
+- BookNumber
 - BookTitle
 - Chapter
 - Citation
